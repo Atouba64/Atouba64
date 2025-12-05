@@ -2,11 +2,10 @@
 
 - 🔭 I’m currently working on a C2 Command and Control Projecf: Will include the link when ready
 - 🌱 I’m currently learning: AWS, IaC with Terraform, 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with: 
-- 💬 Ask me about: Anything Cloud Security (with AWS, and Azure), Linux, Python, and so on. 
+<!-- 👯 I’m looking to collaborate on ... -->
+- 💬 Ask me about: Most things about Cloud, AWS, Linux, and Python 
 - 📫 How to reach me: Email me through juniorliango01@gmail.com or LinkedIn
-- ⚡ Fun fact: 
+<!-- - ⚡ Fun fact:  -->
 
 Call me Atouba. I am passionate about architecting and implementing robust security solutions to protect cloud infrastructure and data assets. I'm also passionate about automation and its implementation in everyday tasks. 
 
@@ -126,7 +125,6 @@ GitHub Repository: "Will place link to the remaining of the projects here after 
 📜 Certifications (Optional but Highly Recommended)
 - [AZ-500: Microsoft Azure Security Technologies] - [Date Achieved/In Progress]
 - [SC-200: Microsoft Security Operations Analyst] - [Date Achieved/In Progress]
-- [CompTIA Security+] - [Date Achieved/In Progress]
 - [CCSP: Certified Cloud Security Professional] - [Date Achieved/In Progress]
 - SSCP - Date Achieved/In Progress
 - CompTIA:
@@ -143,6 +141,7 @@ Other relevant certifications
 🎓 Education & Experience
 Education
 [Your Degree] - [Your University] - [Year of Graduation]
+
 
 Relevant coursework or projects.
 
