@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on a C2 Command and Control Projecf: Will include the link when ready
 - 🌱 I’m currently learning: AWS, IaC with Terraform, 
-<!-- 👯 I’m looking to collaborate on ... -->
 - 💬 Ask me about: Most things about Cloud, AWS, Linux, and Python 
 - 📫 How to reach me: Email me through juniorliango01@gmail.com or LinkedIn
 <!-- - ⚡ Fun fact:  -->
+<!-- 👯 I’m looking to collaborate on ... -->
 
 Call me Atouba. I am passionate about architecting and implementing robust security solutions to protect cloud infrastructure and data assets. I'm also passionate about automation and its implementation in everyday tasks. 
 
